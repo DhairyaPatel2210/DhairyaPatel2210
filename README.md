@@ -33,29 +33,31 @@ Hey there, I am a passionate data scientist with an insatiable curiosity for all
 
 <br>
 
-  <img align="left" alt="Java" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  
-  <img align="left" alt="Java" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" />
+  <img align="left" alt="Java" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 
   <img align="left" alt="Java" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  
-  <img align="left" alt="Java" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  
-  <img align="left" alt="Java" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  
+
+  <img align="left" alt="Java" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+
+  <img align="left" alt="Java" width="40px" style="padding-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"/>
+
+  <img align="left" alt="Java" width="40px" style="padding-right:15px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svghttps://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>
+
+  <img align="left" alt="Java" width="40px" style="padding-right:15px;" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"/>
+
+  <img align="left" alt="Java" width="40px" style="padding-right:15px;" src="https://www.svgrepo.com/show/303251/mysql-logo.svg"/>
+
   <img align="left" alt="Java" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   
   <img align="left" alt="Java" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  
-  <img align="left" alt="Java" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-  
-  <img align="left" alt="Java" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  
+    
   <img align="left" alt="Java" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   
   <img align="left" alt="Java" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+
+  <img align="left" alt="Java" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   
-  <img align="left" alt="Java" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+  <img align="left" alt="Java" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 
 <br/>
 <br/>
@@ -69,7 +71,7 @@ Hey there, I am a passionate data scientist with an insatiable curiosity for all
 <details open> 
   <summary><h2>📈 Profile Statistics</h2></summary>
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=pruthvik00911&theme=highcontrast&hide_border=true&stroke=F0C38E&fire=F0C38E&ring=F0C38E&currStreakLabel=F0C38E&background=DDDDDD00" alt="Typing SVG" />
+<img src="https://streak-stats.demolab.com?user=DhairyaPatel2210&theme=highcontrast&hide_border=true&stroke=F0C38E&fire=F0C38E&ring=F0C38E&currStreakLabel=F0C38E&background=DDDDDD00" alt="Typing SVG" />
 
 </p>
 
