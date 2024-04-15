@@ -16,7 +16,7 @@ Computer programmer, used to solve real-life problems with programming. Love to 
   <summary><h2>💻 Some of my projects</h2></summary>
 
   <p align="center">
-    <a href="https://github.com/pruthvik00911/E-Commerce-Web-Application"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=E-Commerce-Web-Application&theme=react&bg_color=181b28&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>   
+    <a href="https://github.com/DhairyaPatel2210/Real-Time-Named-Entity-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pruthvik00911&repo=E-Commerce-Web-Application&theme=react&bg_color=181b28&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>   
     <a href="https://github.com/DhairyaPatel2210/video_chat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DhairyaPatel2210&repo=video_chat&theme=react&bg_color=181b28&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/DhairyaPatel2210/Screenshot_Manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DhairyaPatel2210&repo=Screenshot_Manager&theme=react&bg_color=181b28&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/DhairyaPatel2210/Secure-password-checker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DhairyaPatel2210&repo=Secure-password-checker&theme=react&bg_color=181b28&title_color=F0C38E&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
