@@ -5,7 +5,13 @@
 <details open> 
   <summary><h2>😃 About Me</h2></summary>
 <p align="left">
-Computer programmer, used to solve real-life problems with programming. Love to share my knowledge with the community so having one blog(gtutechster.blogspot.com). Interested in Web Development and Python Development.
+Coding Geek fueling knowledge as a graduate computer science student at UT Dallas, passionate about full-stack web development.
+
+Expanding horizon on big data, machine learning, natural language processing, cloud, and web technologies at the University of Texas at Dallas (UTD). The extensive coursework at UTD enhanced my skills in Spark, Hadoop, Kafka, Machine Learning techniques(Deep Learning, Neural Nets, Classification, Regression) and tools(Pandas, NumPy, MLLib, MatplotLib, Tensorflow, Keras), Software Maintenance and evolution strategies, mining meaningful data from project repositories.
+
+Before jumping into the realm of graduate studies, I worked at Online PSB Loans (fintech startup) as a software engineer intern, contributing to the development of internal platforms for prompt customer issue resolution and better management of the large number of microservices. During my internship tenure worked on Java, Spring Boot, MySQL, Angular, WebSockets, TypeScript, JavaScript, and Microservices architecture. My undergraduate study at the Vishwakarma Government Engineering College ends with many learning adventures while participating in hackathons, building impactful projects, and contributing to college groups.
+
+With all these skills, an everyday learning attitude, and a deep team spirit, I am looking for a software engineering intern opportunity to put all my learnings into positively impactful ideas.
 </p>
 
 </details>
